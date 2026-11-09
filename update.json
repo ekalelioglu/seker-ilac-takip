@@ -1,8 +1,8 @@
 {
-  "versionCode": 4,
-  "versionName": "2.2",
-  "apkUrl": "https://raw.githubusercontent.com/ekalelioglu/seker-ilac-takip/main/SekerIlacTakip-2.2.apk",
-  "sha256": "06636dd85f0c02faea914db5e2e81c8d45254e24f69ac36c87206e4016ac7abd",
+  "versionCode": 5,
+  "versionName": "2.3",
+  "apkUrl": "https://raw.githubusercontent.com/ekalelioglu/seker-ilac-takip/main/SekerIlacTakip-2.3.apk",
+  "sha256": "7d32bcfb10cc9f80d70fbdace6a0a7dddcfaf1a14283c6a9b0d5081a5af05755",
   "size": 160948,
-  "notes": "• Hatırlatma bildirimleri için Kısa / Detaylı içerik seçeneği\n• Mevcut hatırlatmalar kısa gösterime alındı\n• Güncellemeden sonra ekranda \"Uygulama güncellendi\" penceresi ve bildirim"
+  "notes": "• Geçmiş ekranında şeker grafiği için 60 gün seçeneği\n• Raporlarda \"Son 60 gün\" dönemi\n• Grafik artık uzun dönemlerde tüm ölçümleri gösteriyor"
 }
