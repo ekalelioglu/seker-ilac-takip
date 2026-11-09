@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "2.1",
+  "versionCode": 4,
+  "versionName": "2.2",
   "apkUrl": "https://raw.githubusercontent.com/ekalelioglu/seker-ilac-takip/main/SekerIlacTakip.apk",
-  "sha256": "738441108b2c3ffa7246a607e9aa59afb437d70aa7b09bf753e03d7aa6ac3ec4",
-  "size": 156852,
-  "notes": "• Uygulama içi güncelleme: yeni sürümler artık uygulamadan kurulabiliyor\n• Ayarlar > Güncellemeler bölümü"
+  "sha256": "06636dd85f0c02faea914db5e2e81c8d45254e24f69ac36c87206e4016ac7abd",
+  "size": 160948,
+  "notes": "• Hatırlatma bildirimleri için Kısa / Detaylı içerik seçeneği\n• Mevcut hatırlatmalar kısa gösterime alındı\n• Güncellemeden sonra ekranda \"Uygulama güncellendi\" penceresi ve bildirim"
 }
