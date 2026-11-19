@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "2.5",
-  "apkUrl": "https://raw.githubusercontent.com/ekalelioglu/seker-ilac-takip/main/SekerIlacTakip-2.5.apk",
-  "sha256": "2345e337068e916a47f2986f2b1828f26a3d21fb80142931e1534506188c07ec",
-  "size": 185524,
-  "notes": "• Atlanan ilaçlar gün sonunda bırakılır, tekrar tekrar hatırlatılmaz (erteleme en fazla 3 kez)\n• Geçmiş > Atlanan sekmesi ve raporlarda \"Zamanında alınmayan ilaçlar\" bölümü\n• Silinen ilaçların adı eski kayıtlarda ve raporlarda korunur; ilaç için gerçek \"Sil\" seçeneği"
+  "versionCode": 8,
+  "versionName": "2.6",
+  "apkUrl": "https://raw.githubusercontent.com/ekalelioglu/seker-ilac-takip/main/SekerIlacTakip-2.6.apk",
+  "sha256": "88b0f7f0b5027fddc260940956e5506615ee002eeca31d4ca4b4fb79ae303d9c",
+  "size": 222388,
+  "notes": "• Şeker grafiğinde Açlık / Tokluk / ortalama / diğer ayrı çizgiler, görünürlük seçimi\n• Açlıktan 2 sa 5 dk sonra tokluk hatırlatması\n• Yeni İnsülin bölümü: kaleme dokunarak kayıt, son doz hazır gelir, kalem ve iğne ucu stoğu\n• Güncelleme öncesi hazırlık kontrolü, Wi-Fi bekle / mobil veri seçeneği, arka planda indirme"
 }
