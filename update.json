@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "2.4",
-  "apkUrl": "https://raw.githubusercontent.com/ekalelioglu/seker-ilac-takip/main/SekerIlacTakip-2.4.apk",
-  "sha256": "53f47a3f388d81c9235329e309015f1d0d52e10497347d99ed819326a45179b4",
-  "size": 177332,
-  "notes": "• Bildirim tekrarları düzeltildi: alınan ilaç ve yapılan ölçüm için tekrar uyarı gelmez\n• İlaç bitmeye yakınken yakındaki açık / nöbetçi eczane önerisi (yol tarifi, adres, arama)\n• Hatırlatmalar güne ve vakte göre: Sabah / Öğle / İkindi / Akşam / Gece, her güne ayrı plan, X saatte bir"
+  "versionCode": 7,
+  "versionName": "2.5",
+  "apkUrl": "https://raw.githubusercontent.com/ekalelioglu/seker-ilac-takip/main/SekerIlacTakip-2.5.apk",
+  "sha256": "2345e337068e916a47f2986f2b1828f26a3d21fb80142931e1534506188c07ec",
+  "size": 185524,
+  "notes": "• Atlanan ilaçlar gün sonunda bırakılır, tekrar tekrar hatırlatılmaz (erteleme en fazla 3 kez)\n• Geçmiş > Atlanan sekmesi ve raporlarda \"Zamanında alınmayan ilaçlar\" bölümü\n• Silinen ilaçların adı eski kayıtlarda ve raporlarda korunur; ilaç için gerçek \"Sil\" seçeneği"
 }
