@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "2.3",
-  "apkUrl": "https://raw.githubusercontent.com/ekalelioglu/seker-ilac-takip/main/SekerIlacTakip-2.3.apk",
-  "sha256": "7d32bcfb10cc9f80d70fbdace6a0a7dddcfaf1a14283c6a9b0d5081a5af05755",
-  "size": 160948,
-  "notes": "• Geçmiş ekranında şeker grafiği için 60 gün seçeneği\n• Raporlarda \"Son 60 gün\" dönemi\n• Grafik artık uzun dönemlerde tüm ölçümleri gösteriyor"
+  "versionCode": 6,
+  "versionName": "2.4",
+  "apkUrl": "https://raw.githubusercontent.com/ekalelioglu/seker-ilac-takip/main/SekerIlacTakip-2.4.apk",
+  "sha256": "53f47a3f388d81c9235329e309015f1d0d52e10497347d99ed819326a45179b4",
+  "size": 177332,
+  "notes": "• Bildirim tekrarları düzeltildi: alınan ilaç ve yapılan ölçüm için tekrar uyarı gelmez\n• İlaç bitmeye yakınken yakındaki açık / nöbetçi eczane önerisi (yol tarifi, adres, arama)\n• Hatırlatmalar güne ve vakte göre: Sabah / Öğle / İkindi / Akşam / Gece, her güne ayrı plan, X saatte bir"
 }
