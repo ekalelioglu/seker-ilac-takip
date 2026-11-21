@@ -1,0 +1,8 @@
+{
+  "versionCode": 10,
+  "versionName": "2.8",
+  "apkUrl": "https://raw.githubusercontent.com/ekalelioglu/seker-ilac-takip/main/SekerIlacTakip-2.8.apk",
+  "sha256": "9352366cdfc3a1bcef428a82bb4550c0e27d13ed48890d6c50d2007778b773b1",
+  "size": 234676,
+  "notes": "• Hatırlatmalar düzeltildi: her kurulu saat için tek bildirim, geciken bildirim kaybolmaz, bildirim gün sonuna kadar kalır\\n• Yeni, derli toplu hatırlatma ekranı\\n• Hatırlatma günlüğü ve test bildirimi\\n• Yedek artık ayarları da içerir"
+}
